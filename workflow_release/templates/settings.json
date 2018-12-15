@@ -1,0 +1,74 @@
+{
+    "builder": {
+        "name": "builder",
+        "repo": "https://github.com/deiscc/builder"
+    },
+    "controller": {
+        "name": "controller",
+        "repo": "https://github.com/deiscc/controller"
+    },
+    "database": {
+        "name": "database",
+        "repo": "https://github.com/deiscc/postgres"
+    },
+    "dockerbuilder": {
+        "name": "dockerbuilder",
+        "repo": "https://github.com/deiscc/dockerbuilder"
+    },
+    "fluentd": {
+        "name": "fluentd",
+        "repo": "https://github.com/deiscc/fluentd"
+    },
+    "logger": {
+        "name": "logger",
+        "repo": "https://github.com/deiscc/logger"
+    },
+    "minio": {
+        "name": "minio",
+        "repo": "https://github.com/deiscc/minio"
+    },
+    "monitor": {
+        "name": "monitor",
+        "repo": "https://github.com/deiscc/monitor"
+    },
+    "nsqd": {
+        "name": "nsqd",
+        "repo": "https://github.com/deiscc/nsq"
+    },
+    "redis": {
+        "name": "redis",
+        "repo": "https://github.com/deiscc/redis"
+    },
+    "registry": {
+        "name": "registry",
+        "repo": "https://github.com/deiscc/registry"
+    },
+    "registry-proxy": {
+        "name": "registry-proxy",
+        "repo": "https://github.com/deiscc/registry-proxy"
+    },
+    "registry-token-refresher": {
+        "name": "registry-token-refresher",
+        "repo": "https://github.com/deiscc/registry-token-refresher"
+    },
+    "router": {
+        "name": "router",
+        "repo": "https://github.com/deiscc/router"
+    },
+    "slugbuilder": {
+        "name": "slugbuilder",
+        "repo": "https://github.com/deiscc/slugbuilder"
+    },
+    "slugrunner": {
+        "name": "slugrunner",
+        "repo": "https://github.com/deiscc/slugrunner"
+    },
+    "workflow": {
+        "name": "workflow",
+        "repo": "https://github.com/deiscc/workflow"
+    },
+    "workflow-manager": {
+        "name": "workflow-manager",
+        "repo": "https://github.com/deiscc/workflow-manager"
+    }
+}
